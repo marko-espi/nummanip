@@ -1,4 +1,4 @@
-package calc
+package nummanip
 
 func Add(i, j int) int {
 	return i + j
